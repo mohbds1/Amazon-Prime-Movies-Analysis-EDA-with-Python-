@@ -1,10 +1,7 @@
 # Amazon-Prime-Movies-Analysis-EDA-with-Python-
 This project provides a **comprehensive exploratory data analysis (EDA)** of movies available on **Amazon Prime**.
 
-
-# 🎬 Amazon Prime Movies Analysis
-
-This project provides a **comprehensive exploratory data analysis (EDA)** of movies available on **Amazon Prime**.  
+ 
 The analysis covers cleaning, preprocessing, and insights generation from the dataset.
 
 ---
