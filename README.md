@@ -55,7 +55,7 @@ pip install pandas numpy matplotlib seaborn
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/mohbds1/amazon-prime-movies-analysis.git
+   https://github.com/mohbds1/Amazon-Prime-Movies-Analysis-EDA-with-Python-.git
    ```
 
 ---
